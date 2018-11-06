@@ -1,14 +1,6 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: TeamX
+Role: Manage TeamX community
+Contact: https://t.me/teamx_sr
 
-## Team Member 1
-
-Name: [name]
-Role: [role]
-
-## Team Member 2
-
-Name: [name]
-Role: [role]
